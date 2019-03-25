@@ -1,4 +1,4 @@
-baseurl = "https://agustrionopj.github.io/"
+baseurl = "https://agustrionopj.netlify.com/"
 # baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
