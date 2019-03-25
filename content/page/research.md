@@ -2,4 +2,5 @@
 title: Science!
 comments: false
 ---
-Soon!
+
+My current research is about variable stars and occultation
